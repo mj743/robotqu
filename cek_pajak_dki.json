@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "api_base_url": "https://cek-api.nextappsdigital.co.id/",
-  "api_key": "cpk_isi-dengan-key-aplikasi-dari-panel-admin",
+  "api_key": "cpk_Q0VJL22sm0q65x1edPMeAdu7GdYdarx6UgvhdNcK",
   "minimum_version_code": 1,
   "maintenance": {
     "enabled": false,
@@ -14,7 +14,7 @@
     "more_apps_url": ""
   },
   "ads": {
-    "enabled": false,
+    "enabled": true,
     "banner_unit_id": "ca-app-pub-1234567890123456/1234567890",
     "interstitial_unit_id": "ca-app-pub-1234567890123456/0987654321",
     "native_unit_id": "ca-app-pub-1234567890123456/1111111111",
