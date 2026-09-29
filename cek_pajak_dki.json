@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "api_base_url": "https://cek-api.nextappsdigital.co.id/",
+  "api_base_url": "https://cek-api.nextappsdigital.co.id/api/v1/",
   "api_key": "cpk_Q0VJL22sm0q65x1edPMeAdu7GdYdarx6UgvhdNcK",
   "minimum_version_code": 1,
   "maintenance": {
