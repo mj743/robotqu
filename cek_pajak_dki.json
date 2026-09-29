@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "api_base_url": "https://cek-api.nextappsdigital.co.id/",
+  "api_key": "cpk_isi-dengan-key-aplikasi-dari-panel-admin",
+  "minimum_version_code": 1,
+  "maintenance": {
+    "enabled": false,
+    "message": "Layanan sedang dalam pemeliharaan. Silakan coba lagi nanti."
+  },
+  "links": {
+    "official_source_url": "https://samsat-pkb2.jakarta.go.id/",
+    "bapenda_url": "https://bapenda.jakarta.go.id/beranda",
+    "esamsat_url": "https://www.jakarta.go.id/e-samsat",
+    "more_apps_url": ""
+  },
+  "ads": {
+    "enabled": false,
+    "banner_unit_id": "ca-app-pub-1234567890123456/1234567890",
+    "interstitial_unit_id": "ca-app-pub-1234567890123456/0987654321",
+    "native_unit_id": "ca-app-pub-1234567890123456/1111111111",
+    "rewarded_unit_id": "ca-app-pub-1234567890123456/2222222222",
+    "app_open_unit_id": "ca-app-pub-1234567890123456/3333333333",
+    "rewarded_after_checks": 3
+  }
+}
