@@ -1,8 +1,7 @@
 {
   "schema_version": 1,
-  "api_base_url": "https://cek-api.nextappsdigital.co.id/api/v1/",
-  "api_key": "cpk_Q0VJL22sm0q65x1edPMeAdu7GdYdarx6UgvhdNcK",
-  "minimum_version_code": 1,
+  "api_base_url": "https://cek-api.nextappsdigital.co.id/",
+  "api_key": "cpk_isi-dengan-key-aplikasi-dari-panel-admin",
   "maintenance": {
     "enabled": false,
     "message": "Layanan sedang dalam pemeliharaan. Silakan coba lagi nanti."
@@ -14,12 +13,15 @@
     "more_apps_url": ""
   },
   "ads": {
-    "enabled": true,
-    "banner_unit_id": "ca-app-pub-1234567890123456/1234567890",
-    "interstitial_unit_id": "ca-app-pub-1234567890123456/0987654321",
-    "native_unit_id": "ca-app-pub-1234567890123456/1111111111",
-    "rewarded_unit_id": "ca-app-pub-1234567890123456/2222222222",
-    "app_open_unit_id": "ca-app-pub-1234567890123456/3333333333",
+    "enabled": false,
+    "banner_unit_id": "ca-app-pub-8770833912973178/5354558513",
+    "interstitial_unit_id": "ca-app-pub-8770833912973178/9102231839",
+    "native_unit_id": "ca-app-pub-8770833912973178/1415313508",
+    "rewarded_unit_id": "ca-app-pub-8770833912973178/8304155487",
+    "app_open_unit_id": "ca-app-pub-8770833912973178/3030902648",
     "rewarded_after_checks": 3
+  },
+  "app_reviews": {
+    "show_on_home": true
   }
 }
