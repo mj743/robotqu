@@ -65,7 +65,7 @@
       }
     },
     "banner": {
-      "home": true,
+      "home": false,
       "size": "standard",
       "position": "bottom",
       "show_with_native": false,
