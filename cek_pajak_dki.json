@@ -10,7 +10,8 @@
     "official_source_url": "https://samsat-pkb2.jakarta.go.id/",
     "bapenda_url": "https://bapenda.jakarta.go.id/beranda",
     "esamsat_url": "https://www.jakarta.go.id/e-samsat",
-    "more_apps_url": ""
+    "more_apps_url": "",
+    "privacy_policy_url": "https://www.nextappsdigital.co.id/kebijakan-privasi"
   },
   "ads": {
     "enabled": false,
@@ -19,7 +20,20 @@
     "native_unit_id": "ca-app-pub-8770833912973178/1415313508",
     "rewarded_unit_id": "ca-app-pub-8770833912973178/8304155487",
     "app_open_unit_id": "ca-app-pub-8770833912973178/3030902648",
-    "rewarded_after_checks": 1
+    "rewarded_after_checks": 1,
+    "units": {
+      "admob": {
+        "banner": "ca-app-pub-8770833912973178/5354558513",
+        "interstitial": "ca-app-pub-8770833912973178/9102231839",
+        "rewarded": "ca-app-pub-8770833912973178/8304155487",
+        "app_open": "ca-app-pub-8770833912973178/3030902648",
+        "native": "ca-app-pub-8770833912973178/1415313508",
+        "native_small": ""
+      }
+    },
+    "test_device_ids": [
+      "CDDF0BAD5339CA1C92AA04A5C12BFDD0"
+    ]
   },
   "app_reviews": {
     "show_on_home": false
