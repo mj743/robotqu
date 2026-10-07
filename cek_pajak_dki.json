@@ -79,6 +79,9 @@
       "preload": true,
       "preload_lifetime_ms": 1800000,
       "load_timeout_ms": 15000,
+      "feed_first_after_rows": 3,
+      "feed_every_rows": 6,
+      "feed_max_ads": 3,
       "result": {
         "enabled": true,
         "style": "medium"
@@ -86,6 +89,10 @@
       "home": {
         "enabled": true,
         "style": "medium"
+      },
+      "history": {
+        "enabled": true,
+        "style": "small"
       }
     }
   },
