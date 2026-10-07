@@ -22,6 +22,6 @@
     "rewarded_after_checks": 1
   },
   "app_reviews": {
-    "show_on_home": true
+    "show_on_home": false
   }
 }
