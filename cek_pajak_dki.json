@@ -14,7 +14,7 @@
     "privacy_policy_url": "https://www.nextappsdigital.co.id/kebijakan-privasi"
   },
   "ads": {
-    "enabled": true,
+    "enabled": false,
     "banner_unit_id": "ca-app-pub-8770833912973178/5354558513",
     "interstitial_unit_id": "ca-app-pub-8770833912973178/9102231839",
     "native_unit_id": "ca-app-pub-8770833912973178/1415313508",
