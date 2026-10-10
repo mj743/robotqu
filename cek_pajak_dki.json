@@ -97,6 +97,6 @@
     }
   },
   "app_reviews": {
-    "show_on_home": false
+    "show_on_home": true
   }
 }
