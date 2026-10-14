@@ -1,8 +1,4 @@
 {
-  "bootstrap": {
-    "url": "https://raw.githubusercontent.com/mj743/robotqu/refs/heads/main/bts_wallpaper_1.json",
-    "timeout_ms": 5000
-  },
   "theme": {
     "mode": "dark"
   },
@@ -129,15 +125,45 @@
     "debounce_ms": 350,
     "type_filter": true,
     "aliases": {
-      "Jin": ["Seokjin", "Kim Seokjin"],
-      "J Hobe": ["J-Hope", "Jhope", "Hobi", "Hoseok"],
-      "Jimin": ["Park Jimin"],
-      "Jung Kook": ["Jungkook", "JK", "Kookie"],
-      "Rm": ["Namjoon", "Kim Namjoon"],
-      "Suga": ["Yoongi", "Min Yoongi", "Agust D"],
-      "V": ["Taehyung", "Kim Taehyung"],
-      "BTS Group": ["Bangtan", "Grup"],
-      "BTS Live": ["Live", "Video"]
+      "Jin": [
+        "Seokjin",
+        "Kim Seokjin"
+      ],
+      "J Hobe": [
+        "J-Hope",
+        "Jhope",
+        "Hobi",
+        "Hoseok"
+      ],
+      "Jimin": [
+        "Park Jimin"
+      ],
+      "Jung Kook": [
+        "Jungkook",
+        "JK",
+        "Kookie"
+      ],
+      "Rm": [
+        "Namjoon",
+        "Kim Namjoon"
+      ],
+      "Suga": [
+        "Yoongi",
+        "Min Yoongi",
+        "Agust D"
+      ],
+      "V": [
+        "Taehyung",
+        "Kim Taehyung"
+      ],
+      "BTS Group": [
+        "Bangtan",
+        "Grup"
+      ],
+      "BTS Live": [
+        "Live",
+        "Video"
+      ]
     }
   },
   "app_review": {
@@ -244,18 +270,6 @@
         },
         "size": "standard"
       },
-      "banner_inline_feed": {
-        "format": "banner",
-        "enabled": false,
-        "size": "standard",
-        "interval": 12,
-        "networks": [
-          "admob"
-        ],
-        "units": {
-          "admob": "ca-app-pub-3940256099942544/9214589741"
-        }
-      },
       "native_feed": {
         "format": "native",
         "enabled": true,
@@ -278,17 +292,6 @@
           "admob": "ca-app-pub-3940256099942544/2247696110"
         },
         "template": "medium"
-      },
-      "native_fullpage": {
-        "format": "native",
-        "enabled": false,
-        "template": "full",
-        "networks": [
-          "admob"
-        ],
-        "units": {
-          "admob": "ca-app-pub-3940256099942544/2247696110"
-        }
       },
       "native_onboarding": {
         "format": "native",
