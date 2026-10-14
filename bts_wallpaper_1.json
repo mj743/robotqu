@@ -3,7 +3,7 @@
     "next_url": ""
   },
   "theme": {
-    "mode": "dark"
+    "palette": "pink"
   },
   "splash": {
     "min_duration_ms": 2500,
@@ -28,6 +28,7 @@
       "Simpan yang kamu suka ke Favorit"
     ],
     "hero": {
+      "enabled": true,
       "count": 5,
       "interval_ms": 5000,
       "label": "Pilihan hari ini"
