@@ -1,4 +1,8 @@
 {
+  "bootstrap": {
+    "url": "https://raw.githubusercontent.com/mj743/robotqu/refs/heads/main/bts_wallpaper_1.json",
+    "timeout_ms": 5000
+  },
   "theme": {
     "mode": "dark"
   },
@@ -150,6 +154,11 @@
   },
   "ads": {
     "ads_enabled": true,
+    "applovin_sdk_key": "",
+    "routing": {
+      "admob_share": 60,
+      "backup_enabled": true
+    },
     "pacing": {
       "interstitial_trigger_interval": 3,
       "session_grace_seconds": 0,
@@ -297,20 +306,24 @@
         "format": "interstitial",
         "enabled": true,
         "networks": [
-          "admob"
+          "admob",
+          "applovin"
         ],
         "units": {
-          "admob": "ca-app-pub-3940256099942544/1033173712"
+          "admob": "ca-app-pub-3940256099942544/1033173712",
+          "applovin": ""
         }
       },
       "rewarded_unlock": {
         "format": "rewarded",
         "enabled": true,
         "networks": [
-          "admob"
+          "admob",
+          "applovin"
         ],
         "units": {
-          "admob": "ca-app-pub-3940256099942544/5224354917"
+          "admob": "ca-app-pub-3940256099942544/5224354917",
+          "applovin": ""
         }
       },
       "native_detail": {
