@@ -168,7 +168,7 @@
   },
   "app_review": {
     "enabled": true,
-    "after_onboarding": true,
+    "after_onboarding": false,
     "after_apply": true,
     "min_applies": 2,
     "cooldown_days": 30
