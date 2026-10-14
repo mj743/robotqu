@@ -1,0 +1,330 @@
+{
+  "theme": {
+    "mode": "dark"
+  },
+  "splash": {
+    "min_duration_ms": 2500,
+    "max_wait_ms": 8000,
+    "banner_hold_ms": 1500,
+    "open_ad_timeout_ms": 5000
+  },
+  "home": {
+    "rotation": "daily",
+    "sections": [
+      "hero",
+      "members",
+      "picks",
+      "live",
+      "spotlight",
+      "ad",
+      "for_you"
+    ],
+    "header_lines": [
+      "Wallpaper pilihan baru setiap hari",
+      "Video wallpaper hidup siap dipasang",
+      "Simpan yang kamu suka ke Favorit"
+    ],
+    "hero": {
+      "count": 5,
+      "interval_ms": 5000,
+      "label": "Pilihan hari ini"
+    },
+    "picks_count": 10,
+    "live_count": 8,
+    "spotlight_count": 10,
+    "titles": {
+      "members": "Member",
+      "picks": "Lagi hits hari ini",
+      "live": "Wallpaper hidup",
+      "spotlight": "Sorotan {category}",
+      "for_you": "Untuk kamu"
+    }
+  },
+  "grid": {
+    "columns": 3,
+    "columns_tablet": 5,
+    "category_columns": 2,
+    "category_columns_tablet": 3,
+    "category_style": "grid",
+    "category_cover": "wallpaper",
+    "category_ratio": 1.25,
+    "category_list_ratio": 0.42,
+    "style": "staggered",
+    "ratios": [
+      1.6,
+      1.85,
+      1.7,
+      1.95
+    ],
+    "spacing_dp": 8
+  },
+  "card": {
+    "corner_radius_dp": 16,
+    "stroke_width_dp": 1,
+    "stroke_color": "#33FFFFFF",
+    "premium_stroke": "gradient",
+    "premium_stroke_color": "#FFC94A",
+    "show_lock": true,
+    "show_favorite": true
+  },
+  "navigation": {
+    "corner_radius_dp": 24,
+    "indicator_width_dp": 28,
+    "indicator_color": "",
+    "show_labels": true
+  },
+  "detail": {
+    "page_peek_dp": 28,
+    "page_gap_dp": 12,
+    "side_scale": 0.9,
+    "corner_radius_dp": 24,
+    "blur_radius_dp": 20,
+    "backdrop_dim": "#8C000000",
+    "page_limit": 20
+  },
+  "share": {
+    "text": "I Would like to share this with you. Here You Can Download This Application from PlayStore",
+    "url": "https://play.google.com/store/apps/details?id={package}"
+  },
+  "links": {
+    "privacy_policy": "",
+    "more_apps": "",
+    "rate": "https://play.google.com/store/apps/details?id={package}"
+  },
+  "ad_notice": {
+    "duration_ms": 800
+  },
+  "ad_triggers": {
+    "wallpaper_applied": true,
+    "saved_to_gallery": true
+  },
+  "reminder": {
+    "enabled": true,
+    "skip_if_opened_today": false,
+    "show_picture": true,
+    "channel_name": "Pengingat wallpaper",
+    "items": [
+      {
+        "hour": 9,
+        "title": "Pilihan hari ini: {category}",
+        "text": "Wallpaper baru dari {category} sudah siap. Ganti tampilan layarmu pagi ini."
+      },
+      {
+        "hour": 19,
+        "title": "Saatnya ganti suasana",
+        "text": "Coba wallpaper hidup BTS malam ini, gratis dengan iklan singkat."
+      }
+    ]
+  },
+  "save": {
+    "image_folder": "Pictures/{app}/Gambar",
+    "video_folder": "Movies/{app}/Video"
+  },
+  "search": {
+    "enabled": true,
+    "debounce_ms": 350,
+    "type_filter": true,
+    "aliases": {
+      "Jin": ["Seokjin", "Kim Seokjin"],
+      "J Hobe": ["J-Hope", "Jhope", "Hobi", "Hoseok"],
+      "Jimin": ["Park Jimin"],
+      "Jung Kook": ["Jungkook", "JK", "Kookie"],
+      "Rm": ["Namjoon", "Kim Namjoon"],
+      "Suga": ["Yoongi", "Min Yoongi", "Agust D"],
+      "V": ["Taehyung", "Kim Taehyung"],
+      "BTS Group": ["Bangtan", "Grup"],
+      "BTS Live": ["Live", "Video"]
+    }
+  },
+  "app_review": {
+    "enabled": true,
+    "after_onboarding": true,
+    "after_apply": true,
+    "min_applies": 2,
+    "cooldown_days": 30
+  },
+  "app_update": {
+    "enabled": true,
+    "mode": "flexible",
+    "min_staleness_days": 0
+  },
+  "ads": {
+    "ads_enabled": true,
+    "pacing": {
+      "interstitial_trigger_interval": 3,
+      "session_grace_seconds": 0,
+      "interstitial_min_interval_seconds": 0,
+      "interstitial_max_per_session": 0,
+      "app_open_min_interval_seconds": 0,
+      "app_open_after_fullscreen_seconds": 0,
+      "fullscreen_max_age_seconds": 3600,
+      "app_open_max_age_seconds": 14400
+    },
+    "retry": {
+      "max_attempts": 3,
+      "base_delay_ms": 2000,
+      "max_delay_ms": 60000
+    },
+    "placements": {
+      "app_open_launch": {
+        "format": "app_open",
+        "enabled": true,
+        "networks": [
+          "admob"
+        ],
+        "units": {
+          "admob": "ca-app-pub-3940256099942544/9257395921"
+        }
+      },
+      "app_open_resume": {
+        "format": "app_open",
+        "enabled": true,
+        "networks": [
+          "admob"
+        ],
+        "units": {
+          "admob": "ca-app-pub-3940256099942544/9257395921"
+        }
+      },
+      "banner_splash": {
+        "format": "banner",
+        "enabled": true,
+        "networks": [
+          "admob"
+        ],
+        "units": {
+          "admob": "ca-app-pub-3940256099942544/9214589741"
+        },
+        "anchor": "bottom",
+        "size": "standard"
+      },
+      "banner_category": {
+        "format": "banner",
+        "enabled": true,
+        "networks": [
+          "admob"
+        ],
+        "units": {
+          "admob": "ca-app-pub-3940256099942544/9214589741"
+        },
+        "anchor": "bottom",
+        "size": "standard"
+      },
+      "banner_detail": {
+        "format": "banner",
+        "enabled": true,
+        "networks": [
+          "admob"
+        ],
+        "units": {
+          "admob": "ca-app-pub-3940256099942544/9214589741"
+        },
+        "anchor": "bottom",
+        "size": "standard",
+        "collapsible": false
+      },
+      "banner_settings": {
+        "format": "banner",
+        "enabled": true,
+        "anchor": "bottom",
+        "networks": [
+          "admob"
+        ],
+        "units": {
+          "admob": "ca-app-pub-3940256099942544/9214589741"
+        },
+        "size": "standard"
+      },
+      "banner_inline_feed": {
+        "format": "banner",
+        "enabled": false,
+        "size": "standard",
+        "interval": 12,
+        "networks": [
+          "admob"
+        ],
+        "units": {
+          "admob": "ca-app-pub-3940256099942544/9214589741"
+        }
+      },
+      "native_feed": {
+        "format": "native",
+        "enabled": true,
+        "networks": [
+          "admob"
+        ],
+        "units": {
+          "admob": "ca-app-pub-3940256099942544/2247696110"
+        },
+        "template": "medium",
+        "interval": 12
+      },
+      "native_exit": {
+        "format": "native",
+        "enabled": true,
+        "networks": [
+          "admob"
+        ],
+        "units": {
+          "admob": "ca-app-pub-3940256099942544/2247696110"
+        },
+        "template": "medium"
+      },
+      "native_fullpage": {
+        "format": "native",
+        "enabled": false,
+        "template": "full",
+        "networks": [
+          "admob"
+        ],
+        "units": {
+          "admob": "ca-app-pub-3940256099942544/2247696110"
+        }
+      },
+      "native_onboarding": {
+        "format": "native",
+        "enabled": true,
+        "template": "full",
+        "interval": 2,
+        "networks": [
+          "admob"
+        ],
+        "units": {
+          "admob": "ca-app-pub-3940256099942544/2247696110"
+        }
+      },
+      "interstitial_main": {
+        "format": "interstitial",
+        "enabled": true,
+        "networks": [
+          "admob"
+        ],
+        "units": {
+          "admob": "ca-app-pub-3940256099942544/1033173712"
+        }
+      },
+      "rewarded_unlock": {
+        "format": "rewarded",
+        "enabled": true,
+        "networks": [
+          "admob"
+        ],
+        "units": {
+          "admob": "ca-app-pub-3940256099942544/5224354917"
+        }
+      },
+      "native_detail": {
+        "format": "native",
+        "enabled": true,
+        "template": "full",
+        "interval": 6,
+        "networks": [
+          "admob"
+        ],
+        "units": {
+          "admob": "ca-app-pub-3940256099942544/2247696110"
+        }
+      }
+    }
+  }
+}
