@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "api_base_url": "https://api-pajak.nextappsdigital.co.id/",
+  "api_base_url": "https://cek-api.nextappsdigital.co.id/",
   "api_key": "cpk_FcuTJ5Kz0VraenS1TaueQyWvkrRr8OaTIqhD31b8",
   "maintenance": {
     "enabled": false,
