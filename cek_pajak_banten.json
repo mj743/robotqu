@@ -16,7 +16,7 @@
     "min_staleness_days": 0
   },
   "ads": {
-    "ads_enabled": true,
+    "ads_enabled": false,
     "applovin_sdk_key": "",
     "routing": {
       "admob_share": 100,
