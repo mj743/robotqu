@@ -1,0 +1,148 @@
+{
+  "next_url": "",
+  "config_url": "https://raw.githubusercontent.com/mj743/robotqu/refs/heads/main/cek_pajak_jabar.json",
+  "api_base_url": "https://cek-api.nextappsdigital.co.id/",
+  "api_key": "cpk_FcuTJ5Kz0VraenS1TaueQyWvkrRr8OaTIqhD31b8",
+  "privacy_policy_url": "https://www.nextappsdigital.co.id/kebijakan-privasi",
+  "app_review": {
+    "enabled": true,
+    "min_checks": 2,
+    "cooldown_days": 30
+  },
+  "app_update": {
+    "enabled": true,
+    "mode": "flexible",
+    "min_staleness_days": 0
+  },
+  "ads": {
+    "ads_enabled": true,
+    "pacing": {
+      "interstitial_trigger_interval": 1,
+      "session_grace_seconds": 0,
+      "interstitial_min_interval_seconds": 0,
+      "interstitial_max_per_session": 0,
+      "app_open_min_interval_seconds": 10,
+      "app_open_after_fullscreen_seconds": 5,
+      "fullscreen_max_age_seconds": 3600,
+      "app_open_max_age_seconds": 14400
+    },
+    "retry": {
+      "max_attempts": 3,
+      "base_delay_ms": 2000,
+      "max_delay_ms": 60000
+    },
+    "placements": {
+      "app_open_launch": {
+        "format": "app_open",
+        "enabled": true,
+        "networks": [
+          "admob"
+        ],
+        "units": {
+          "admob": "ca-app-pub-3940256099942544/9257395921"
+        }
+      },
+      "app_open_resume": {
+        "format": "app_open",
+        "enabled": true,
+        "networks": [
+          "admob"
+        ],
+        "units": {
+          "admob": "ca-app-pub-3940256099942544/9257395921"
+        }
+      },
+      "banner_bootstrap": {
+        "format": "banner",
+        "enabled": true,
+        "networks": [
+          "admob"
+        ],
+        "units": {
+          "admob": "ca-app-pub-3940256099942544/9214589741"
+        },
+        "anchor": "bottom",
+        "size": "normal"
+      },
+      "banner_reminder": {
+        "format": "banner",
+        "enabled": true,
+        "networks": [
+          "admob"
+        ],
+        "units": {
+          "admob": "ca-app-pub-3940256099942544/9214589741"
+        },
+        "anchor": "bottom",
+        "size": "standard"
+      },
+      "banner_history": {
+        "format": "banner",
+        "enabled": true,
+        "networks": [
+          "admob"
+        ],
+        "units": {
+          "admob": "ca-app-pub-3940256099942544/9214589741"
+        },
+        "anchor": "bottom",
+        "size": "standard"
+      },
+      "banner_settings": {
+        "format": "banner",
+        "enabled": true,
+        "networks": [
+          "admob"
+        ],
+        "units": {
+          "admob": "ca-app-pub-3940256099942544/9214589741"
+        },
+        "anchor": "bottom",
+        "size": "standard"
+      },
+      "interstitial_main": {
+        "format": "interstitial",
+        "enabled": true,
+        "networks": [
+          "admob"
+        ],
+        "units": {
+          "admob": "ca-app-pub-3940256099942544/1033173712"
+        }
+      },
+      "native_home": {
+        "format": "native",
+        "enabled": true,
+        "networks": [
+          "admob"
+        ],
+        "units": {
+          "admob": "ca-app-pub-3940256099942544/2247696110"
+        },
+        "template": "medium"
+      },
+      "native_exit": {
+        "format": "native",
+        "enabled": true,
+        "networks": [
+          "admob"
+        ],
+        "units": {
+          "admob": "ca-app-pub-3940256099942544/2247696110"
+        },
+        "template": "medium"
+      },
+      "native_result": {
+        "format": "native",
+        "enabled": true,
+        "networks": [
+          "admob"
+        ],
+        "units": {
+          "admob": "ca-app-pub-3940256099942544/2247696110"
+        },
+        "template": "medium"
+      }
+    }
+  }
+}
