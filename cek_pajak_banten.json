@@ -45,7 +45,7 @@
           "admob"
         ],
         "units": {
-          "admob": "ca-app-pub-3940256099942544/9257395921"
+          "admob": "ca-app-pub-8770833912973178/3110911235"
         }
       },
       "app_open_resume": {
@@ -55,7 +55,7 @@
           "admob"
         ],
         "units": {
-          "admob": "ca-app-pub-3940256099942544/9257395921"
+          "admob": "ca-app-pub-8770833912973178/3110911235"
         }
       },
       "banner_bootstrap": {
@@ -65,7 +65,7 @@
           "admob"
         ],
         "units": {
-          "admob": "ca-app-pub-3940256099942544/9214589741"
+          "admob": "ca-app-pub-8770833912973178/7569030990"
         },
         "anchor": "bottom",
         "size": "normal"
@@ -77,7 +77,7 @@
           "admob"
         ],
         "units": {
-          "admob": "ca-app-pub-3940256099942544/9214589741"
+          "admob": "ca-app-pub-8770833912973178/7569030990"
         },
         "anchor": "bottom",
         "size": "standard"
@@ -89,7 +89,7 @@
           "admob"
         ],
         "units": {
-          "admob": "ca-app-pub-3940256099942544/9214589741"
+          "admob": "ca-app-pub-8770833912973178/7569030990"
         },
         "anchor": "bottom",
         "size": "standard"
@@ -101,7 +101,7 @@
           "admob"
         ],
         "units": {
-          "admob": "ca-app-pub-3940256099942544/9214589741"
+          "admob": "ca-app-pub-8770833912973178/7569030990"
         },
         "anchor": "bottom",
         "size": "standard"
@@ -113,7 +113,7 @@
           "admob"
         ],
         "units": {
-          "admob": "ca-app-pub-3940256099942544/9214589741"
+          "admob": "ca-app-pub-8770833912973178/7569030990"
         },
         "anchor": "bottom",
         "size": "standard"
@@ -126,7 +126,7 @@
           "applovin"
         ],
         "units": {
-          "admob": "ca-app-pub-3940256099942544/1033173712",
+          "admob": "ca-app-pub-8770833912973178/7528668390",
           "applovin": ""
         }
       },
@@ -138,7 +138,7 @@
           "applovin"
         ],
         "units": {
-          "admob": "ca-app-pub-3940256099942544/5224354917",
+          "admob": "ca-app-pub-8770833912973178/8049560491",
           "applovin": ""
         }
       },
@@ -149,7 +149,7 @@
           "admob"
         ],
         "units": {
-          "admob": "ca-app-pub-3940256099942544/2247696110"
+          "admob": "ca-app-pub-8770833912973178/8517307274"
         },
         "template": "medium"
       },
@@ -160,7 +160,7 @@
           "admob"
         ],
         "units": {
-          "admob": "ca-app-pub-3940256099942544/2247696110"
+          "admob": "ca-app-pub-8770833912973178/8517307274"
         },
         "template": "medium"
       },
@@ -171,7 +171,7 @@
           "admob"
         ],
         "units": {
-          "admob": "ca-app-pub-3940256099942544/2247696110"
+          "admob": "ca-app-pub-8770833912973178/8517307274"
         },
         "template": "medium"
       }
