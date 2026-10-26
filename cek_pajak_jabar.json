@@ -39,7 +39,7 @@
           "admob"
         ],
         "units": {
-          "admob": "ca-app-pub-3940256099942544/9257395921"
+          "admob": "ca-app-pub-8770833912973178/3125421358"
         }
       },
       "app_open_resume": {
@@ -49,7 +49,7 @@
           "admob"
         ],
         "units": {
-          "admob": "ca-app-pub-3940256099942544/9257395921"
+          "admob": "ca-app-pub-8770833912973178/3125421358"
         }
       },
       "banner_bootstrap": {
@@ -59,7 +59,7 @@
           "admob"
         ],
         "units": {
-          "admob": "ca-app-pub-3940256099942544/9214589741"
+          "admob": "ca-app-pub-8770833912973178/3237101999"
         },
         "anchor": "bottom",
         "size": "normal"
@@ -71,7 +71,7 @@
           "admob"
         ],
         "units": {
-          "admob": "ca-app-pub-3940256099942544/9214589741"
+          "admob": "ca-app-pub-8770833912973178/3237101999"
         },
         "anchor": "bottom",
         "size": "standard"
@@ -83,7 +83,7 @@
           "admob"
         ],
         "units": {
-          "admob": "ca-app-pub-3940256099942544/9214589741"
+          "admob": "ca-app-pub-8770833912973178/3237101999"
         },
         "anchor": "bottom",
         "size": "standard"
@@ -95,7 +95,7 @@
           "admob"
         ],
         "units": {
-          "admob": "ca-app-pub-3940256099942544/9214589741"
+          "admob": "ca-app-pub-8770833912973178/3237101999"
         },
         "anchor": "bottom",
         "size": "standard"
@@ -107,7 +107,7 @@
           "admob"
         ],
         "units": {
-          "admob": "ca-app-pub-3940256099942544/1033173712"
+          "admob": "ca-app-pub-8770833912973178/8904983763"
         }
       },
       "native_home": {
@@ -117,7 +117,7 @@
           "admob"
         ],
         "units": {
-          "admob": "ca-app-pub-3940256099942544/2247696110"
+          "admob": "ca-app-pub-8770833912973178/9886892940"
         },
         "template": "medium"
       },
@@ -128,7 +128,7 @@
           "admob"
         ],
         "units": {
-          "admob": "ca-app-pub-3940256099942544/2247696110"
+          "admob": "ca-app-pub-8770833912973178/9886892940"
         },
         "template": "medium"
       },
@@ -139,7 +139,7 @@
           "admob"
         ],
         "units": {
-          "admob": "ca-app-pub-3940256099942544/2247696110"
+          "admob": "ca-app-pub-8770833912973178/9886892940"
         },
         "template": "medium"
       }
