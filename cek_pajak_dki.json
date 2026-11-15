@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "api_base_url": "https://go-api.nextappsdigital.co.id/api/v1/tax/check",
+  "api_base_url": "https://go-api.nextappsdigital.co.id",
   "api_key": "1Aq1hyxGI2_nJ3SeI_F6e6YaP6ctOlGXAoZXhjcmkXAszqU4",
   "maintenance": {
     "enabled": false,
